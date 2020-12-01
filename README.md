@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### What do I do ?
+
+<img alt="CSharp" src="https://img.shields.io/badge/C%20Sharp-239120?logo=C%20Sharp&logoColor=white" />
+<img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white" />
+<img alt="DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=Azure%20DevOps&logoColor=white" />
+
 <!--
 **Kakayoo62/Kakayoo62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
