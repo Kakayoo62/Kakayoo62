@@ -12,7 +12,7 @@ Localisation : Faumont, France.
 ## 🎯 Objectif professionnel
 
 - Concevoir et implémenter des architectures backend robustes et performantes en C#.
-- Maintenir des produits software évolutifs, sécurisés et orientés clients.
+- Maintenir des produits évolutifs, sécurisés et orientés clients.
 - Piloter l’exécution technique des fonctionnalités et garantir l’alignement produit (Lead Dev).
 - Mettre en place des pratiques DevOps (CI/CD, pipelines, automatisation) en environnement Agile/Scrum.
 
