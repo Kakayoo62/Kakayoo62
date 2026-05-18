@@ -23,6 +23,16 @@ J’apprécie particulièrement :
 
 ---
 
+## 🚀 Focus actuel
+
+- Architecture backend .NET & API
+- DevOps et qualité logicielle
+- IA générative appliquée au développement
+- Création musicale assistée par IA
+- Workflows LLM locaux
+
+---
+
 ## 🛠️ Compétences techniques
 
 ### Backend & API
@@ -51,6 +61,7 @@ J’apprécie particulièrement :
 - GitHub Copilot
 - Claude
 - IA générative & automatisation
+- Expérimentation autour des LLM locaux et workflows IA augmentés
 
 ### 🏷️ Technologies
 
@@ -60,11 +71,12 @@ J’apprécie particulièrement :
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/features/copilot)  [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)](https://claude.ai/)  [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)  
 [![LM Studio](https://img.shields.io/badge/LM_Studio-111111?style=flat-square)](https://lmstudio.ai/) [![OpenCode](https://img.shields.io/badge/OpenCode-222222?style=flat-square)](https://opencode.ai/)
+
 ---
 
 ## 💼 Expérience professionnelle
 
-### NeoLedge — Développeur (mai 2018 – aujourd’hui)  
+### NeoLedge — Lead Dev Backend / API (mai 2018 – aujourd’hui)  
 Région de Lille
 
 - Lead Dev backend / API : conception, qualité architecture, revue et conduite technique.
