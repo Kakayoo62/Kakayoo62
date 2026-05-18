@@ -1,33 +1,56 @@
 # Guillaume Mathon
 **Développeur Backend | Lead Dev C# & API**  
-Passionné de domotique et de musique.  
+Passionné de domotique, de musique et de création numérique.  
 Localisation : Faumont, France.  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathon.guillaume@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kakayoo62)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-mathon-3a818013b/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ObsidianPulseStudios)
+[![Suno](https://img.shields.io/badge/Suno-FD4C2A?style=flat-square)](https://suno.com/@mathon_guillaume)
 
 ---
 
 ## 🎯 Objectif professionnel
 
-- Concevoir et implémenter des architectures backend robustes et performantes en C#.
-- Maintenir des produits évolutifs, sécurisés et orientés clients.
-- Piloter l’exécution technique des fonctionnalités et garantir l’alignement produit (Lead Dev).
-- Mettre en place des pratiques DevOps (CI/CD, pipelines, automatisation) en environnement Agile/Scrum.
+Développeur backend spécialisé .NET/C#, j’interviens principalement sur la conception d’API, l’architecture logicielle et la qualité technique des applications.
+
+J’apprécie particulièrement :
+- la conception de systèmes robustes et maintenables,
+- l’amélioration continue des workflows DevOps,
+- les problématiques de performance et d’architecture,
+- ainsi que l’accompagnement technique des équipes.
 
 ---
 
 ## 🛠️ Compétences techniques
 
-- Langage : C# (principal), VB.NET, SQL
-- Back-end : ASP.NET Core Web API, ASP.NET MVC, WebForms
-- Front-end : Vue.js, HTML/CSS/JavaScript
-- Bases de données : SQL Server, PostgreSQL
-- Outils IDE : Visual Studio, Visual Studio Code
-- IA/Aide dev : GitHub Copilot, Claude
-- DevOps / CI/CD : Azure DevOps (VSTS), pipelines build/déploiement
-- Méthodologie : Agile, Scrum, conception produit, spécification, tests
+### Backend & API
+- C# / .NET
+- ASP.NET Core Web API
+- ASP.NET MVC
+- WebForms
+
+### Frontend
+- Vue.js
+- HTML / CSS / JavaScript
+
+### Bases de données
+- SQL Server
+- PostgreSQL
+
+### DevOps & Qualité
+- Azure DevOps (VSTS)
+- CI/CD pipelines
+- SonarQube
+- Git / Pull Requests
+
+### Outils & Environnement
+- Visual Studio
+- Visual Studio Code
+- GitHub Copilot
+- Claude
+- IA générative & automatisation
 
 ### 🏷️ Technologies
 
@@ -35,8 +58,8 @@ Localisation : Faumont, France.
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/services/devops/)  [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)  
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)  [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/features/copilot)  [![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=ai&logoColor=white)](https://claude.ai/)
-
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/features/copilot)  [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)](https://claude.ai/)  [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)  
+[![LM Studio](https://img.shields.io/badge/LM_Studio-111111?style=flat-square)](https://lmstudio.ai/) [![OpenCode](https://img.shields.io/badge/OpenCode-222222?style=flat-square)](https://opencode.ai/)
 ---
 
 ## 💼 Expérience professionnelle
@@ -44,9 +67,11 @@ Localisation : Faumont, France.
 ### NeoLedge — Développeur (mai 2018 – aujourd’hui)  
 Région de Lille
 
-- En poste depuis 7 ans 11 mois sur solution de dématérialisation de documents (domaine électrique).
 - Lead Dev backend / API : conception, qualité architecture, revue et conduite technique.
 - Développement de fonctionnalités en C# + WebAPI.
+- Référent backend/API sur plusieurs composants stratégiques.
+- Participation aux choix d’architecture et aux décisions techniques.
+- Accompagnement des développeurs via revues de code et bonnes pratiques.
 - Front-end : Vue.js.
 - Migration vers une chaîne DevOps mature (pipelines build + déploiement continu).
 - Travail en Scrum (sprint 4 semaines), backlog produit, définition d’US et priorisation.
@@ -96,6 +121,24 @@ Région de Lille
 
 ---
 
+## 🎵 Création musicale & IA générative
+
+Projet personnel d’exploration autour de la musique assistée par IA.
+
+### Activités réalisées
+- Écriture de paroles originales
+- Direction artistique
+- Génération musicale via Suno
+- Création d’univers visuels et concepts d’albums
+- Assemblage et mastering audio
+- Publication et expérimentation de workflows créatifs IA
+
+### Plateformes
+- YouTube : [Obsidian Pulse Studios](https://www.youtube.com/@ObsidianPulseStudios)
+- Suno : [mathon_guillaume](https://suno.com/@mathon_guillaume)
+
+---
+
 ## 🎓 Formation
 
 - DUT Informatique, Université de Lille (2009 – 2011)
@@ -109,11 +152,8 @@ Région de Lille
 
 - Domotique (Jeedom → Home Assistant, Zigbee/Z-Wave)
 - Guitare électrique
-
----
-
-## 📌 Valeurs clés
-
-- Qualité technique, maintenabilité et robustesse.
-- Collaboration, communication et mentorat.
-- Conduite systématique du changement (amélioration continue).
+- Création musicale et expérimentation IA générative via Suno
+  - Écriture de paroles originales
+  - Direction artistique et génération musicale
+  - Assemblage, édition et mastering d’albums réalisés à titre personnel
+  - Exploration de workflows créatifs mêlant IA, audio et production musicale
